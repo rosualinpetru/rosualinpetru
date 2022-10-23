@@ -20,7 +20,7 @@ I am a computer science engineer pursuing both a teaching and research career. I
 
 
 ## Papers:
-- Alin-Petru Roșu, Petru Florin Mihancea, <i>Towards the Detection of Hidden Familial Type Correlations in Java Code</i>, Proceedings of the 22nd IEEE International Working Conference on Source Code Analysis and Manipulation, NIER Track, Limassol, Cyprus, September, 2022
+- Alin-Petru Roșu, Petru Florin Mihancea, <i>Towards the Detection of Hidden Familial Type Correlations in Java Code</i>, Proceedings of the 22nd IEEE International Working Conference on Source Code Analysis and Manipulation, NIER Track, Limassol, Cyprus, September, 2022 ("New Ideas and Emerging Results" Best Paper Award)
 
 <hr>
 
