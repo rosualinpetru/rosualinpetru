@@ -16,7 +16,7 @@ I am a computer science engineer pursuing both a teaching and research career. I
 * Compilers
 * Formal Methods
 * Functional Programming
-* Software Engineering
+* Category Theory
 
 
 ## Papers:
