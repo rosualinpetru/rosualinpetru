@@ -9,7 +9,6 @@
 </p>
 
 I am a computer science engineer pursuing both a teaching and research career. I developed a desire to research programming languages, with a particular affinity for functional ones. Teaching is also one of my passions and therefore I am focusing on delivering inspiring mentorship.
-<hr>
 
 ## Research interests:
 
@@ -19,7 +18,6 @@ I am a computer science engineer pursuing both a teaching and research career. I
 * Functional Programming
 * Software Engineering
 
-<hr>
 
 ## Papers:
 - Alin-Petru Roșu, Petru Florin Mihancea, <i>Towards the Detection of Hidden Familial Type Correlations in Java Code</i>, Proceedings of the 22nd IEEE International Working Conference on Source Code Analysis and Manipulation, NIER Track, Limassol, Cyprus, September, 2022
