@@ -26,7 +26,7 @@ I am a computer science engineer pursuing both a teaching and research career. I
 
 <div>
 <div align="center">
-    <img alt="Idriss's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rosualinpetru&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=22272e&title_color=386ccc&icon_color=386ccc" height="200"/>
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rosualinpetru&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=22272e&title_color=386ccc&icon_color=386ccc" height="200"/>
+    <a href="#"><img alt="Idriss's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rosualinpetru&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=22272e&title_color=386ccc&icon_color=386ccc" height="200"/></a>
+    <a href="#"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rosualinpetru&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=22272e&title_color=386ccc&icon_color=386ccc" height="200"/></a>
 </div>
 </div>
