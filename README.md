@@ -23,10 +23,3 @@ I am a computer science engineer pursuing both a teaching and research career. I
 - Alin-Petru Roșu, Petru Florin Mihancea, <i>Towards the Detection of Hidden Familial Type Correlations in Java Code</i>, Proceedings of the 22nd IEEE International Working Conference on Source Code Analysis and Manipulation, NIER Track, Limassol, Cyprus, September, 2022 ("New Ideas and Emerging Results" Best Paper Award)
 
 <hr>
-
-<div>
-<div align="center">
-    <a href="#"><img alt="Idriss's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rosualinpetru&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=22272e&title_color=386ccc&icon_color=386ccc" height="180"/></a>
-    <a href="#"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rosualinpetru&hide=javascript,html,css&layout=compact&theme=react&hide_border=true&bg_color=22272e&title_color=386ccc&icon_color=386ccc" height="180"/></a>
-</div>
-</div>
