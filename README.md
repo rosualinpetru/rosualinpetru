@@ -1,5 +1,5 @@
 <h1 align="center">
- Hi, I'm Alin 
+👋🏻 Hi, I'm Alin 
 </h1>
 
 <p align="center">   
@@ -7,17 +7,11 @@
   <a href="https://www.linkedin.com/in/rosualinpetru/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-1b1f25?style=for-the-badge&logo=linkedin&logoColor=386ccc"></a> 
 </p>
 
-👋🏻 I am a seasoned Software Engineer specializing in functional programming and proficient in languages such as Scala. I aim to develop complex software systems and deliver high-quality solutions within united teams.
-
-### 🔧 Skills
-- Backend: Scala, Typelevel (cats, cats-effect, fs2, http4s, doobie), Akka (Persistence, Streams, HTTP)
-- Databases: PostgreSQL
-- Infrastructure: Linux, Docker (Swarm), AWS
-
 ### 🔍 Interests:
-- Compilers
-- Language Engineering
-- Category Theory
+- Programming Language Engineering
+- Code Analysis
+- Security and Cryptography
+- Privacy-Enhancing Technologies 
 - Blockchain Technologies
 
 <div align="center">
