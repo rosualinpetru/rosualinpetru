@@ -4,7 +4,7 @@
 </p>
 
 <hr>
-# 👋 Hi, I'm Alin-Petru Rosu!
+<h1> 👋 Hi, I'm Alin-Petru Rosu! </h1>
 
 I'm a Computer Science master's student passionate about building secure and scalable software systems. With experience across both research and industry, I aim to bridge the gap between cutting-edge research and practical software engineering. My work spans backend development, infrastructure, and a growing interest in privacy and security.
 
