@@ -1,8 +1,3 @@
-<p align="center">   
-  <a href="mailto:rosualinpetru@gmail.com"><img src="https://img.shields.io/badge/-Email-1b1f25?style=for-the-badge&logo=gmail&logoColor=386ccc"></a>
-  <a href="https://www.linkedin.com/in/rosualinpetru/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-1b1f25?style=for-the-badge&logo=linkedin&logoColor=386ccc"></a> 
-</p>
-
 <hr>
 <h1> 👋 Hi, I'm Alin-Petru Rosu! </h1>
 
