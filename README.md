@@ -6,7 +6,6 @@ Experienced software engineer with a strong background in infrastructure and bac
 ### 📫 Contact Me
 - **Email**: [rosualinpetru@gmail.com](mailto:rosualinpetru@gmail.com)
 - **LinkedIn**: [linkedin.com/in/rosualinpetru](https://linkedin.com/in/rosualinpetru)
-- **GitHub**: [github.com/rosualinpetru](https://github.com/rosualinpetru)
 
 ### ⚡ Fun Facts
 - 🏊 I enjoy **scuba diving**.
