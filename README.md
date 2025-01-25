@@ -1,16 +1,7 @@
 <hr>
 <h1> 👋 Hi, I'm Alin-Petru Rosu! </h1>
 
-I'm a Computer Science master's student passionate about building secure and scalable software systems. With experience across both research and industry, I aim to bridge the gap between cutting-edge research and practical software engineering. My work spans backend development, infrastructure, and a growing interest in privacy and security.
-
-### 🔍 About Me
-- 🌐 Based in the Netherlands, working toward my thesis on **Post-Quantum Certificates for Space** in collaboration with the **European Space Agency**.
-- 👨‍💻 Experienced in backend development, microservices, and cloud infrastructure, with hands-on DevOps skills.
-- 🏆 Award-winning researcher, having delivered high-impact projects such as **MedTech Chain**, a blockchain solution for medical device research, and Romania's instant payments system with **ING Bank**.
-
-### 🚀 Currently Exploring
-- **Post-Quantum Cryptography** with applications in secure communication systems for space.
-- **Privacy & Security**: Exploring infrastructure security to ensure data privacy and resilience.
+Experienced software engineer with a strong background in infrastructure and backend development. Pursuing dual master's degrees in Software Engineering and Cybersecurity, focusing on software security and cryptography. Engaged in research on privacy-enhancing technologies and post-quantum cryptographic certificates, advancing public key infrastructure for space missions. Aspiring to R&D roles within the industry. Pragmatic and results-driven, recognised for strong leadership and collaboration skills, thriving in high-performing, cohesive teams to deliver impactful solutions.
 
 ### 📫 Contact Me
 - **Email**: [rosualinpetru@gmail.com](mailto:rosualinpetru@gmail.com)
@@ -18,8 +9,8 @@ I'm a Computer Science master's student passionate about building secure and sca
 - **GitHub**: [github.com/rosualinpetru](https://github.com/rosualinpetru)
 
 ### ⚡ Fun Facts
-- 🏊 I enjoy **scuba diving** and choreographing traditional Romanian dances.
-- 💃 A fan of dancing, especially **Latino music**.
+- 🏊 I enjoy **scuba diving**.
+- 💃 A fan of dancing and choreographing traditional Romanian dances.
 
 ---
 
